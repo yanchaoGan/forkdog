@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://top178.gitee.io/ys/posts/dotscale-2014-as-a-sketch/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <loc>http://top178.gitee.io/ys/post/post-title/</loc>
+    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
   </url>
   
   <url>
@@ -13,38 +13,37 @@
   </url>
   
   <url>
-    <loc>http://top178.gitee.io/ys/tags/dotscale/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://top178.gitee.io/ys/tags/event/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://top178.gitee.io/ys/posts/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://top178.gitee.io/ys/tags/sketchnote/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <loc>http://top178.gitee.io/ys/post/</loc>
+    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://top178.gitee.io/ys/tags/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://top178.gitee.io/ys/tags/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://top178.gitee.io/ys/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://top178.gitee.io/ys/tags/%E7%98%A6%E8%BA%AB/</loc>
+    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://top178.gitee.io/ys/tags/%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
