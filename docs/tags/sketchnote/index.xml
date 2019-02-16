@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketchnote on My blog is awesome</title>
-    <link>http://example.com/tags/sketchnote/</link>
+    <link>https://grand-china.github.io/YS/tags/sketchnote/</link>
     <description>Recent content in Sketchnote on My blog is awesome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>All rights reserved - 2015</copyright>
+    <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/sketchnote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grand-china.github.io/YS/tags/sketchnote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>dotScale 2014 as a sketch</title>
-      <link>http://example.com/posts/dotscale-2014-as-a-sketch/</link>
+      <link>https://grand-china.github.io/YS/posts/dotscale-2014-as-a-sketch/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://example.com/posts/dotscale-2014-as-a-sketch/</guid>
+      <guid>https://grand-china.github.io/YS/posts/dotscale-2014-as-a-sketch/</guid>
       <description>我是中国人</description>
     </item>
     

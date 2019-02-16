@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog is awesome</title>
-    <link>http://example.com/tags/</link>
+    <link>https://grand-china.github.io/YS/tags/</link>
     <description>Recent content in Tags on My blog is awesome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>All rights reserved - 2015</copyright>
+    <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grand-china.github.io/YS/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dotscale</title>
-      <link>http://example.com/tags/dotscale/</link>
+      <link>https://grand-china.github.io/YS/tags/dotscale/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://example.com/tags/dotscale/</guid>
+      <guid>https://grand-china.github.io/YS/tags/dotscale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event</title>
-      <link>http://example.com/tags/event/</link>
+      <link>https://grand-china.github.io/YS/tags/event/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://example.com/tags/event/</guid>
+      <guid>https://grand-china.github.io/YS/tags/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sketchnote</title>
-      <link>http://example.com/tags/sketchnote/</link>
+      <link>https://grand-china.github.io/YS/tags/sketchnote/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://example.com/tags/sketchnote/</guid>
+      <guid>https://grand-china.github.io/YS/tags/sketchnote/</guid>
       <description></description>
     </item>
     

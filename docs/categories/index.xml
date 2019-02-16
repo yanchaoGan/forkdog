@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My blog is awesome</title>
-    <link>http://example.com/categories/</link>
+    <link>https://grand-china.github.io/YS/categories/</link>
     <description>Recent content in Categories on My blog is awesome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>All rights reserved - 2015</copyright>
+    <copyright>All rights reserved - 2019</copyright>
     
-	<atom:link href="http://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grand-china.github.io/YS/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
