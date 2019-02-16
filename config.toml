@@ -1,6 +1,6 @@
 BaseUrl= "http://top178.gitee.io/ys/"
 LanguageCode= "fr-FR"
-Title= "科学减肥推广官V"
+Title= "健康减肥推广官V"
 paginate = 5
 DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2019"
@@ -22,7 +22,7 @@ theme="casper"
   # RSSLink = "http://feeds.feedburner.com/..."
  
  
-  hideHUGOSupport = false
+  hideHUGOSupport = true
   
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
@@ -34,13 +34,13 @@ theme="casper"
 
 
 [[menu.main]]
-  name = "My Blog"
-  weight = -120
+  name = "文章"
+  weight = -1
   identifier = "blog"
   url = "/"
 
 [[menu.main]]
-  name = "About me"
-  weight = -110
+  name = "关于"
+  weight = -2
   identifier = "about"
   url = "/about"
