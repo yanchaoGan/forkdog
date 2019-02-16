@@ -1,4 +1,4 @@
-BaseUrl= "http://top178.gitee.io/"
+BaseUrl= "http://top178.gitee.io/ys/"
 LanguageCode= "fr-FR"
 Title= "健康瘦身官微"
 paginate = 5
@@ -11,7 +11,7 @@ theme="casper"
 [params]
   description = "千万条路，瘦身，从来都是一个人"
   metadescription = "metades"
-  cover = "./images/cover_p1.png"
+  cover = "docs/images/cover_p1.png"
   author = "Science"
   authorlocation = "china"
   authorwebsite = "http://vjeantet.fr"
