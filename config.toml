@@ -1,6 +1,6 @@
-BaseUrl= "https://grand-china.github.io/YS/"
+BaseUrl= "http://top178.gitee.io/ys/"
 LanguageCode= "fr-FR"
-Title= "My blog is awesome"
+Title= "科学减肥推广官V"
 paginate = 5
 DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2019"
@@ -9,16 +9,17 @@ publishDir = "docs"
 theme="casper"
 
 [params]
-  description = "Welcome to my website"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  description = "健康，科学，减肥"
+  metadescription = "metades"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "任兰兰"
+  authorlocation = "china"
   authorwebsite = "http://vjeantet.fr"
   authorbio= "my bio"
-  googleAnalyticsUserID = "UA-79101-12"
+
+  # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
+  # RSSLink = "http://feeds.feedburner.com/..."
  
  
   hideHUGOSupport = false
