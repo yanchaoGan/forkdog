@@ -11,7 +11,7 @@ theme="casper"
 [params]
   description = "千万条路，瘦身，从来都是一个人"
   metadescription = "metades"
-  cover = "docs/images/cover_p1.png"
+  cover = "./images/cover_p1.png"
   author = "Science"
   authorlocation = "china"
   authorwebsite = "http://vjeantet.fr"
