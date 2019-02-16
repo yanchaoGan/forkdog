@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://top178.gitee.io/ys/about/</loc>
+    <lastmod>2019-02-16T22:40:30+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://top178.gitee.io/ys/post/post-title/</loc>
     <lastmod>2019-02-16T17:41:11+08:00</lastmod>
   </url>
@@ -31,7 +36,7 @@
   
   <url>
     <loc>http://top178.gitee.io/ys/</loc>
-    <lastmod>2019-02-16T17:41:11+08:00</lastmod>
+    <lastmod>2019-02-16T22:40:30+08:00</lastmod>
     <priority>0</priority>
   </url>
   
