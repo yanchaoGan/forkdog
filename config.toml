@@ -1,6 +1,6 @@
-BaseUrl= "http://top178.gitee.io/ys/"
+BaseUrl= "http://top178.gitee.io/"
 LanguageCode= "fr-FR"
-Title= "健康减肥推广官V"
+Title= "健康瘦身官微"
 paginate = 5
 DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2019"
@@ -9,9 +9,9 @@ publishDir = "docs"
 theme="casper"
 
 [params]
-  description = "健康，科学，减肥"
+  description = "千万条路，瘦身，从来都是一个人"
   metadescription = "metades"
-  cover = "cover_polenord1.png"
+  cover = "./images/cover_p1.png"
   author = "Science"
   authorlocation = "china"
   authorwebsite = "http://vjeantet.fr"
