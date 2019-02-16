@@ -6,6 +6,7 @@ DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2019"
 canonifyurls = true
 publishDir = "docs"
+theme="casper"
 
 [params]
   description = "Welcome to my website"
