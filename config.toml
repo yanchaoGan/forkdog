@@ -1,6 +1,6 @@
 BaseUrl= "http://top178.gitee.io/ys/"
 LanguageCode= "fr-FR"
-Title= "健康瘦身"
+Title= "健康小知识"
 paginate = 5
 #DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = " All rights reserved - 2019"
@@ -15,7 +15,7 @@ theme="casper"
   author = "我是 Science"
   authorlocation = "china"
   authorwebsite = "/"
-  authorbio= "快乐减肥很简单哦"
+  authorbio= "快乐减肥很简单哦！ 加我入群获取更多小技巧"
 
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
