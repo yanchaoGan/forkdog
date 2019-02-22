@@ -144,9 +144,25 @@
         hm.src = "https://hm.baidu.com/hm.js?52e2f1f0ef8e61edfd4f88136b573e5d";
         var s = document.getElementsByTagName("script")[0]; 
         s.parentNode.insertBefore(hm, s);
-      })();
-      </script>
+      })();      
+    </script>
      
+
+    
+    
+    <script>
+        var ua = window.navigator.userAgent.toLowerCase();
+        if (ua.match(/MicroMessenger/i) == 'micromessenger') {
+          window.onload = function () {
+            document.write("当前在微信中，请复制地址 " + window.location.href +"在手机浏览器中打开")
+          }
+        }
+    </script>
+    
+    
+
+
+
 
 </head>
 <body class="nav-closed">
