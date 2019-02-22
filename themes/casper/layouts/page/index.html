@@ -52,4 +52,9 @@
 
 </main>
 
+<!-- 自定义统计服务 -->
+{{ if .Site.Params.needPvUv }}
+    <script type="text/javascript" src="{{"js/busuanzi.js" | relURL}}"></script>
+{{end}}
+
 {{ partial "footer.html" . }}
