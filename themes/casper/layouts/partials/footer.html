@@ -5,6 +5,19 @@
         {{end}}
     </footer>
     </div>
+
+     <!-- //添加判断当前微信窗口浏览器 -->
+     {{ if .Site.Params.ljWeiXin }}
+     <script>
+         var ua = window.navigator.userAgent.toLowerCase();
+         if (ua.match(/MicroMessenger/i) == 'micromessenger') {
+            document.body.innerHTML = "当前在微信中，请复制地址 " + window.location.href +"在手机浏览器中打开";
+        //    window.onload = function () {
+        //    }
+         }
+     </script>
+     {{end}}
+
     <script type="text/javascript" src="{{"js/jquery.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/jquery.fitvids.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/index.js" | relURL}}"></script>
