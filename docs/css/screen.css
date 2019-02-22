@@ -1039,13 +1039,18 @@ body:not(.post-template) .post-title {
     font-size: 0.9em;
     line-height: 1.7em;
 
-    /* 首页文章列表，2行显示*/
+    /* 自定义 首页文章列表，2行显示*/
     max-height: 3.6em;  
     overflow:hidden; 
     text-overflow:ellipsis;
     display:-webkit-box; 
     -webkit-box-orient:vertical;
     -webkit-line-clamp:2; 
+}
+
+/* 自定义pv */
+#busuanzi_container_site_pv, #busuanzi_container_site_uv{
+    font-size: 0.6em;
 }
 
 .read-more {

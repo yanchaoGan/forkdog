@@ -36,13 +36,11 @@
 
  <!-- 自定义统计服务 -->
 {{ if .Site.Params.needPvUv }}
-
 &nbsp;&nbsp; <p id="busuanzi_container_site_pv" style='display:none'>
     总访问<span id="busuanzi_value_site_pv"></span> 
 </p> <span id="busuanzi_container_site_uv" style='display:none'>
-    你是第<span id="busuanzi_value_site_uv"></span>
+    你是第<span id="busuanzi_value_site_uv"></span>位
 </span> 
-
 {{end}}
 
 <!-- 首页文章内容列表 -->
@@ -52,9 +50,17 @@
 
 </main>
 
-<!-- 自定义统计服务 -->
+<!-- 自定义pv统计服务 -->
 {{ if .Site.Params.needPvUv }}
-    <script type="text/javascript" src="{{"js/busuanzi.js" | relURL}}"></script>
+<script>
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "js/busuanzi.js";
+      hm.async = true;
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 {{end}}
 
 {{ partial "footer.html" . }}

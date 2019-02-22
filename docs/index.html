@@ -207,13 +207,11 @@
 
  
 
-
 &nbsp;&nbsp; <p id="busuanzi_container_site_pv" style='display:none'>
     总访问<span id="busuanzi_value_site_pv"></span> 
 </p> <span id="busuanzi_container_site_uv" style='display:none'>
-    你是第<span id="busuanzi_value_site_uv"></span>
+    你是第<span id="busuanzi_value_site_uv"></span>位
 </span> 
-
 
 
 
@@ -472,7 +470,15 @@
 
 
 
-    <script type="text/javascript" src="http://top178.gitee.io/ys/js/busuanzi.js"></script>
+<script>
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "js/busuanzi.js";
+      hm.async = true;
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 
 
     <footer class="site-footer clearfix">
