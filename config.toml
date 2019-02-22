@@ -27,6 +27,9 @@ theme="casper"
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
 
+  # 是否需要百度统计
+  needBaiduAnalytics = true
+
 hjsStyle = "default"
 
 #[params.social]
