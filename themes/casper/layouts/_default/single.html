@@ -1,5 +1,7 @@
 {{ partial "header.html" . }}
 
+<!-- 针对的是文章正文 -->
+
 {{if .Params.image}}
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   <header class="main-header post-head" style="background-image: url({{.Params.image }})">
@@ -27,8 +29,12 @@
 
 <main class="content" role="main">
 
-
-
+  <!-- 自定义统计服务 -->
+{{ if .Site.Params.needPvUv }}
+&nbsp;&nbsp; <p id="busuanzi_container_site_pv" style='display:none'>
+    总阅读<span id="busuanzi_value_site_pv"></span> 
+</p> 
+{{end}}
 
   <article class="post {{ .Section }}">
 
@@ -70,5 +76,18 @@
 {{if not .Params.hideSuggestions }}
   {{ partial "suggestions.html" . }}
 {{ end }}
+
+<!-- 自定义pv统计服务 -->
+{{ if .Site.Params.needPvUv }}
+<script>
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "../../js/busuanzi.js";
+      hm.async = true;
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+{{end}}
 
 {{ partial "footer.html" . }}
