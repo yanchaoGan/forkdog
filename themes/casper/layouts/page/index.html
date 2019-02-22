@@ -34,7 +34,18 @@
     <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
 </header>
 
+ <!-- 自定义统计服务 -->
+{{ if .Site.Params.needPvUv }}
 
+&nbsp;&nbsp; <p id="busuanzi_container_site_pv" style='display:none'>
+    总访问<span id="busuanzi_value_site_pv"></span> 
+</p> <span id="busuanzi_container_site_uv" style='display:none'>
+    你是第<span id="busuanzi_value_site_uv"></span>
+</span> 
+
+{{end}}
+
+<!-- 首页文章内容列表 -->
 <main id="content" class="content" role="main">
 
 {{ partial "home-content.html" . }}
