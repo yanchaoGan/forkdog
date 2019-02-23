@@ -32,7 +32,7 @@ theme="casper"
   # 是否需要 pv uv 在页面统计显示 
   needPvUv = true
   # 屏蔽微信浏览器
-  ljWeiXin = true
+  ljWeiXin = false
 
 hjsStyle = "default"
 
