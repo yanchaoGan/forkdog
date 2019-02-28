@@ -10,7 +10,7 @@ theme="casper"
 
 [params]
   description = "千万路，瘦身，从来都是一个人"
-  metadescription = "减肥 瘦身 美白 女人 健康 快乐 胖子 励志 减脂" #seo 优化
+  metadescription = "减肥瘦身美白的女人是健康快乐的胖子励志减脂的故事" #seo 优化
   cover = "./images/cover_p1.png"  #背景图
   author = "我是 Science"
   authorlocation = "china"
