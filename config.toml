@@ -1,7 +1,7 @@
 BaseUrl= "http://top178.gitee.io/ys/"
 LanguageCode= "fr-FR"
 Title= "健康小知识"
-paginate = 5
+paginate = 20
 #DisqusShortname = "YOUR_SHORT_NAME_HERE" #不要那个disqus丑陋
 Copyright = " All rights reserved - 2019"
 canonifyurls = true
